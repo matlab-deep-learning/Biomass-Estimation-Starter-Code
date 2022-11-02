@@ -1,7 +1,7 @@
 # Biomass Estimation with Satellite Imagery: DrivenData&trade; Challenge Starter Code
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View The BioMassters Challenge Starter Code on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119963-the-biomassters-challenge-starter-code)
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 
 This repository serves as a starting solution to The Biomassters competition using MATLAB&reg;. This example takes users through importing and preprocessing satellite imagery, creating an image-to-image regression model that predicts above-ground biomass, using this model to predict on a new dataset, and exporting the results. 
